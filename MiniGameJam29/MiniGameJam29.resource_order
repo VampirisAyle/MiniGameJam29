@@ -16,5 +16,15 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"level","order":1,"path":"rooms/level/level.yy",},
+    {"name":"platform_green","order":1,"path":"sprites/platform_green/platform_green.yy",},
+    {"name":"platform_red","order":2,"path":"sprites/platform_red/platform_red.yy",},
+    {"name":"sliding_terrain_away","order":3,"path":"sprites/sliding_terrain_away/sliding_terrain_away.yy",},
+    {"name":"sliding_terrain_forward","order":4,"path":"sprites/sliding_terrain_forward/sliding_terrain_forward.yy",},
+    {"name":"sliding_terrain_L","order":5,"path":"sprites/sliding_terrain_L/sliding_terrain_L.yy",},
+    {"name":"sliding_terrain_R","order":6,"path":"sprites/sliding_terrain_R/sliding_terrain_R.yy",},
+    {"name":"tileset","order":2,"path":"sprites/tileset/tileset.yy",},
+    {"name":"terrain_tile","order":1,"path":"tilesets/terrain_tile/terrain_tile.yy",},
+  ],
 }
